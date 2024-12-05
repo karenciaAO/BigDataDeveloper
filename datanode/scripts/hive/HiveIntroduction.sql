@@ -155,7 +155,6 @@ INSERT OVERWRITE TABLE persons2
 --
 
 DROP TABLE IF EXISTS persons3;
-
 CREATE TABLE persons3 (
     id INT,
     firstname VARCHAR(10),
