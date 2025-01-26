@@ -155,7 +155,7 @@ INSERT OVERWRITE TABLE persons2
 --
 
 DROP TABLE IF EXISTS persons3;
-CREATE TABLE persons3 (
+CREATE TABLE persons3 (docker compose upd
     id INT,
     firstname VARCHAR(10),
     surname VARCHAR(10),
